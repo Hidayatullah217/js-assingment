@@ -123,26 +123,26 @@
 
 
 
-let currentYear = (2023)
-let birthYear = +prompt("What is your birth year ?")
-document.write(`
-    <h1> Age Calculator </h1> <br>
-    Current Year: 2023 <br>    
-    Birth Year: ${birthYear} <br>
-    Your Age is: ${currentYear - birthYear}`)
+// let currentYear = (2023)
+// let birthYear = +prompt("What is your birth year ?")
+// document.write(`
+//     <h1> Age Calculator </h1> <br>
+//     Current Year: 2023 <br>    
+//     Birth Year: ${birthYear} <br>
+//     Your Age is: ${currentYear - birthYear}`)
 
 
 
 
-var favoriteSnack = "Lays";
-var currentage = 15;
-var maximumAge = 65 ;
-var perDaySnack = 3;
+// var favoriteSnack = "Lays";
+// var currentage = 15;
+// var maximumAge = 65 ;
+// var perDaySnack = 3;
 
-document.write(`
-    <h1> The Lifetime Supply Calculator:</h1> <br>
-    Favorite Snack : ${favoriteSnack} <br>
-    Current Age : ${currentage} <br>
-    Estimate Maximum Age : ${maximumAge} <br>
-    Amount Of Snack Per Day : ${perDaySnack} <br>
-    You will need ${perDaySnack * (maximumAge - currentage)} Lays to last you until the ripe old age of ${maximumAge} `)
+// document.write(`
+//     <h1> The Lifetime Supply Calculator:</h1> <br>
+//     Favorite Snack : ${favoriteSnack} <br>
+//     Current Age : ${currentage} <br>
+//     Estimate Maximum Age : ${maximumAge} <br>
+//     Amount Of Snack Per Day : ${perDaySnack} <br>
+//     You will need ${perDaySnack * (maximumAge - currentage)} Lays to last you until the ripe old age of ${maximumAge} `)
